@@ -7,7 +7,6 @@ The system evaluates your drawing accuracy and gives a score instantly. Built us
 
 ## 📷 Screenshots
 
-> Upload your images in a `/screenshots` folder and reference them here like this:
 ## 📷 Project Screenshot
 
 ![Air Canvas Demo](screenshots/air_canvas_demo.png)
